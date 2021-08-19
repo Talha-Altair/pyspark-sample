@@ -2,6 +2,8 @@
 
 ## Java Setup
 
+Skip java Setup Section if you already have $JAVA_HOME configured
+
 ```
 sudo apt install default-jdk
 ```
